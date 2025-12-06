@@ -1,2 +1,2 @@
-# shared_lib_train
-train the shared library stuff
+# linux app practice
+study linux app api coding
